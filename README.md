@@ -1,1 +1,1 @@
-"# eEvent" 
+"# eEvent" This is a project assigned on the OOP course in university. This project was made in a team of 2. The use of this aplication is: -create events such as music festivals,food festival,theatre etc. -each event has a category and is listed on the user page according to his preferences -the events are managed by an admin which has an special account -each ticket bought can be printed
